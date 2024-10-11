@@ -1,0 +1,20 @@
+body{
+background-color: lightskyblue;
+}
+h3{
+	font-size: 25px;
+	color: orange;
+}
+
+p{
+ 	text-align: justify;
+	font-size: 20px;
+	color: black;
+	background-color: powderblue;
+	padding: 10px;
+}
+
+div{
+	background-color: #102030;
+	width: 80%;
+}
